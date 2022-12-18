@@ -1,10 +1,8 @@
-package com.dsa.datastructures.graph.traversal;
+package com.dsa.datastructures.graph;
 
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
-
-import com.dsa.datastructures.graph.Vertex;
 
 public class DFS<T> {
 	private final Vertex<T> startVertex;

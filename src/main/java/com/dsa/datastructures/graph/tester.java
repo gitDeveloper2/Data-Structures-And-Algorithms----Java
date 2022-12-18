@@ -1,8 +1,6 @@
-package com.dsa.datastructures.graph.traversal;
+package com.dsa.datastructures.graph;
 
 import java.util.Arrays;
-
-import com.dsa.datastructures.graph.Vertex;
 
 public class tester {
 public static void main(String[] args) {
